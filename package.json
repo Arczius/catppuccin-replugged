@@ -1,7 +1,7 @@
 {
-  "name": "plugin-template",
-  "version": "1.0.0",
-  "description": "A plugin template",
+  "name": "catppuccin-replugged",
+  "version": "0.0.1",
+  "description": "A port of the catpuccin theme to replugged",
   "engines": {
     "node": ">=18.0.0",
     "pnpm": ">=8.0.0"

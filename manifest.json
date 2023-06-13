@@ -1,16 +1,16 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "id": "github.arczius.catppuccin",
+  "name": "Catpuccin for Replugged",
+  "description": "A port of the catpuccin theme to replugged",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "Jar",
+    "discordID": "523846364438855680",
+    "github": "Arczius"
   },
-  "version": "1.0.0",
+  "version": "0.0.1",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "Arczius/catppuccin-replugged"
   },
   "license": "MIT",
   "type": "replugged-plugin",
