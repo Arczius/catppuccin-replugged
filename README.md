@@ -18,7 +18,7 @@
   </a>
   <a>
     <img
-      src="https://img.shields.io/github/directory-file-count/Arczius/catppuccin-replugged/src?label=Files%20in%20.src%2F&style=for-the-badge&colorA=45475A&colorB=89B4FA"
+      src="https://img.shields.io/github/directory-file-count/Arczius/catppuccin-replugged/src?label=Files%20in%20%2Esrc%2F&style=for-the-badge&colorA=45475A&colorB=89B4FA"
       alt="Files in the .src/ Directory"
     />
   </a>
