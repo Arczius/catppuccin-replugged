@@ -6,7 +6,7 @@
     href="https://github.com/Arczius/catppuccin-replugged/blob/main/LICENSE"
   >
     <img
-      src="https://img.shields.io/github/license/Arczius/catppuccin-replugged?style=for-the-badge&colorA=45475A&colorB=CBA6F7"
+      src="assets/images/LICENSE.svg"
       alt="License: MIT"
     /> 
   </a>
